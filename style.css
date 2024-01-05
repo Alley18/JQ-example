@@ -1,0 +1,9 @@
+body{
+    background-color: aliceblue;
+}
+
+.big-title{
+    font-size: 8rem;
+    color: brown;
+    font-family: cursive;
+}
